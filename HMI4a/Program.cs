@@ -6,6 +6,7 @@ using System.Windows.Forms;
 
 /*
    COPYRIGHT CADMES B.V. 2025
+   ALL RIGHT RESERVED
  */
 
 namespace HMI4a
