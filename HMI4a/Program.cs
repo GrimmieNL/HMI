@@ -4,6 +4,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+/*
+   COPYRIGHT CADMES B.V. 2025
+ */
+
 namespace HMI4a
 {
     internal static class Program
