@@ -22,5 +22,10 @@ namespace HMI4a
             MessageBox.Show("Hello World", "HMI", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hallo allemaal, dit is een bericht!", "Informatie", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
     }
 }
